@@ -3,8 +3,11 @@ config.energysynergy=%s configuration
 
 ## Config categories
 config.energysynergy.general=General settings
+config.cyclopscore.general.tooltip=General settings
 config.energysynergy.core=Core settings
+config.cyclopscore.core.tooltip=Core settings
 config.energysynergy.modcompat=Mod compatibility settings
+config.cyclopscore.modcompat.tooltip=Mod compatibility settings
 
 ## Core settings
 config.energysynergy.general.analytics=Send anonymous analytics
